@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <users>
+        <user1 id="1" dream="shit">
+            <name>小明</name>
+            <age>18</age>
+            <性别>男</性别>
+        </user1>
+        <user2 id="2">
+            <name>红红</name>
+            <age>56</age>
+            <性别>女</性别>
+        </user2>
+        <user3 id="3">
+            <name>小强</name>
+            <age>5</age>
+            <性别>男</性别>
+        </user3>
+    </users>

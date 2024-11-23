@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dom4j-2.1.4-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/day02/src/libHelp/dom4j-2.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
